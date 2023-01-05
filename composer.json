@@ -1,0 +1,14 @@
+{
+  "name": "jenifferjoyce/heroku",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jeniffer Joyce",
+      "email": "21025290@myrp.edu.sg"
+    }
+  ],
+  "require": {
+  }
+}
